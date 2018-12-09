@@ -1,0 +1,9 @@
+{
+  "license": "MIT",
+  "dependencies": {
+    "unglue-server": "^1.0.6"
+  },
+  "scripts": {
+    "start": "yarn --cwd node_modules/unglue-server/ run start"
+  }
+}
